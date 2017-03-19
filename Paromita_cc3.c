@@ -1,4 +1,8 @@
 //Dynamic problem.
+//Choosing subsequence of the array such that you choose no two consecutive number 
+//of the array and the resulting sum be maximum.
+
+
 #include <stdio.h>
  
 int main()
