@@ -1,4 +1,6 @@
 //Dynamic problem.
+//Find the subsequence of a array such that you include no two consecutive elements
+//and maximize the sum
 #include <stdio.h>
  
 int main()
